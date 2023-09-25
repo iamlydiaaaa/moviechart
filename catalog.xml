@@ -1,0 +1,2145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<catalog>
+    <films>
+        <film>
+            <id>1</id>
+            <popularity>1</popularity>
+            <title>No Time to Die</title>
+            <poster>noTimetoDie(2021).jpeg</poster>
+            <year>2021</year>
+            <releaseDates>
+                <release>
+                    <date>28/09/2021</date>
+                    <location>Royal Albert Hall</location>
+                </release>
+                <release>
+                    <date>30/09/2021</date>
+                    <location>United Kingdom</location>
+                </release>
+                <release>
+                    <date>08/10/2021</date>
+                    <location>United States</location>
+                </release>
+            </releaseDates>
+            <genres>
+                <genre>Action</genre>
+                <genre>Adventure</genre>
+                <genre>Thriller</genre>
+            </genres>
+            <description>
+                James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.
+            </description>
+            <rating>
+                <ageRestriction>PG-13</ageRestriction>
+                <warnings>
+                    <warning>Sequences of Violence &#38; Action</warning>
+                    <warning>Brief Strong Language</warning>
+                    <warning>Some Disturbing Images</warning>
+                    <warning>Some Suggestive Material</warning>
+                </warnings>
+            </rating>
+            <runtime>163</runtime>
+            <language>EN</language>
+            <distributor>Metro-Goldwyn-Mayer</distributor>
+            <directors>
+                <director>0</director>
+            </directors>
+            <producers>
+                <producer>1</producer>
+                <producer>2</producer>
+            </producers>
+            <screenwriters>
+                <screenwriter>3</screenwriter>
+                <screenwriter>4</screenwriter>
+                <screenwriter>0</screenwriter>
+                <screenwriter>5</screenwriter>
+                <screenwriter>6</screenwriter>
+            </screenwriters>
+            <stars>
+                <star>7</star>
+                <star>8</star>
+                <star>9</star>
+            </stars>
+            <scores>
+                <rottenTomatoes>
+                    <tomatoeMeter>83</tomatoeMeter>
+                    <audienceScore>90</audienceScore>
+                </rottenTomatoes>
+                <imdb>76</imdb>
+            </scores>
+        </film>
+        <film>
+            <id>2</id>
+            <popularity>2</popularity>
+            <title>Dune</title>
+            <poster>dune(2021).jpeg</poster>
+            <year>2021</year>
+            <releaseDates>
+                <release>
+                    <date>03/09/2021</date>
+                    <location>Venice</location>
+                </release>
+                <release>
+                    <date>22/10/2021</date>
+                    <location>United States</location>
+                </release>
+            </releaseDates>
+            <genres>
+                <genre>Sci-Fi</genre>
+                <genre>Adventure</genre>
+            </genres>
+            <description>
+                Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence, only those who can conquer their own fear will survive.
+            </description>
+            <rating>
+                <ageRestriction>PG-13</ageRestriction>
+                <warnings>
+                    <warning>Some Disturbing Images</warning>
+                    <warning>Sequences of Strong Violence</warning>
+                    <warning>Suggestive Material</warning>
+                </warnings>
+            </rating>
+            <runtime>155</runtime>
+            <language>EN</language>
+            <distributor>Warner Bros. Pictures</distributor>
+            <directors>
+                <director>10</director>
+            </directors>
+            <producers>
+                <producer>10</producer>
+                <producer>13</producer>
+                <producer>14</producer>
+                <producer>15</producer>
+            </producers>
+            <screenwriters>
+                <screenwriter>11</screenwriter>
+                <screenwriter>10</screenwriter>
+                <screenwriter>12</screenwriter>
+            </screenwriters>
+            <stars>
+                <star>16</star>
+                <star>17</star>
+                <star>18</star>
+            </stars>
+            <scores>
+                <rottenTomatoes>
+                    <tomatoeMeter>89</tomatoeMeter>
+                </rottenTomatoes>
+                <imdb>84</imdb>
+            </scores>
+        </film>
+        <film>
+            <id>3</id>
+            <popularity>3</popularity>
+            <title>Free Guy</title>
+            <poster>freeGuy(2021).jpeg</poster>
+            <year>2021</year>
+            <releaseDates>
+                <release>
+                    <date>10/8/2021</date>
+                    <location>Locarno</location>
+                </release>
+                <release>
+                    <date>13/08/2021</date>
+                    <location>United States</location>
+                </release>
+            </releaseDates>
+            <genres>
+                <genre>Adventure</genre>
+                <genre>Comedy</genre>
+                <genre>Action</genre>
+            </genres>
+            <description>
+                In "Free Guy," a bank teller who discovers he is actually a background player in an open-world video game, decides to become the hero of his own story... one he rewrites himself. Now in a world where there are no limits, he is determined to be the guy who saves his world his way... before it is too late.
+            </description>
+            <rating>
+                <ageRestriction>PG-13</ageRestriction>
+                <warnings>
+                    <warning>Language</warning>
+                    <warning>Crude/Suggestive References</warning>
+                    <warning>Strong Fantasy Violence</warning>
+                </warnings>
+            </rating>
+            <runtime>115</runtime>
+            <language>EN</language>
+            <distributor>20th Century Studios</distributor>
+            <directors>
+                <director>19</director>
+            </directors>
+            <producers>
+                <producer>20</producer>
+                <producer>19</producer>
+                <producer>21</producer>
+                <producer>22</producer>
+                <producer>23</producer>
+            </producers>
+            <screenwriters>
+                <screenwriter>24</screenwriter>
+                <screenwriter>25</screenwriter>
+            </screenwriters>
+            <stars>
+                <star>20</star>
+                <star>26</star>
+                <star>27</star>
+            </stars>
+            <scores>
+                <rottenTomatoes>
+                    <tomatoeMeter>80</tomatoeMeter>
+                    <audienceScore>94</audienceScore>
+                </rottenTomatoes>
+                <imdb>73</imdb>
+            </scores>
+        </film>
+        <film>
+            <id>4</id>
+            <popularity>4</popularity>
+            <title>The Many Saints of Newark</title>
+            <poster>theManySaintsOfNewark(2021).jpeg</poster>
+            <year>2021</year>
+            <releaseDates>
+                <release>
+                    <date>22/09/2021</date>
+                    <location>Tribeca</location>
+                </release>
+                <release>
+                    <date>01/10/2021</date>
+                    <location>United States</location>
+                </release>
+            </releaseDates>
+            <genres>
+                <genre>Drama</genre>
+                <genre>Crime</genre>
+            </genres>
+            <description>
+                Young Anthony Soprano is growing up in one of the most tumultuous eras in Newark's history, becoming a man just as rival gangsters begin to rise up and challenge the all-powerful DiMeo crime family's hold over the increasingly race-torn city. Caught up in the changing times is the uncle he idolizes, Dickie Moltisanti, who struggles to manage both his professional and personal responsibilities--and whose influence over his impressionable nephew will help make the teenager into the all-powerful mob boss we'll later come to know: Tony Soprano.
+            </description>
+            <rating>
+                <ageRestriction>R</ageRestriction>
+                <warnings>
+                    <warning>Sexual Content</warning>
+                    <warning>Pervasive Language</warning>
+                    <warning>Some Nudity</warning>
+                    <warning>Strong Violence</warning>
+                </warnings>
+            </rating>
+            <runtime>120</runtime>
+            <language>EN</language>
+            <distributor>Warner Bros. Pictures</distributor>
+            <directors>
+                <director>28</director>
+            </directors>
+            <producers>
+                <producer>29</producer>
+                <producer>30</producer>
+                <producer>31</producer>
+            </producers>
+            <screenwriters>
+                <screenwriter>29</screenwriter>
+                <screenwriter>30</screenwriter>
+            </screenwriters>
+            <stars>
+                <star>32</star>
+                <star>33</star>
+                <star>34</star>
+            </stars>
+            <scores>
+                <rottenTomatoes>
+                    <tomatoeMeter>74</tomatoeMeter>
+                    <audienceScore>58</audienceScore>
+                </rottenTomatoes>
+                <imdb>65</imdb>
+            </scores>
+        </film>
+        <film>
+            <id>5</id>
+            <popularity>5</popularity>
+            <title>Venom: Let There Be Carnage</title>
+            <poster>venomLetThereBeCarnage(2021).jpeg</poster>
+            <year>2021</year>
+            <releaseDates>
+                <release>
+                    <date>14/10/2021</date>
+                    <location>London</location>
+                </release>
+                <release>
+                    <date>01/10/2021</date>
+                    <location>United States</location>
+                </release>
+            </releaseDates>
+            <genres>
+                <genre>Sci-Fi</genre>
+                <genre>Comedy</genre>
+                <genre>Fantasy</genre>
+                <genre>Adventure</genre>
+                <genre>Action</genre>
+            </genres>
+            <description>
+                Eddie Brock is still struggling to coexist with the shape-shifting extraterrestrial Venom. When deranged serial killer Cletus Kasady also becomes host to an alien symbiote, Brock and Venom must put aside their differences to stop his reign of terror.
+            </description>
+            <rating>
+                <ageRestriction>PG-13</ageRestriction>
+                <warnings>
+                    <warning>Disturbing Material</warning>
+                    <warning>Action</warning>
+                    <warning>Intense Sequences of Violence</warning>
+                    <warning>Some Strong Language</warning>
+                    <warning>Suggestive References</warning>
+                </warnings>
+            </rating>
+            <runtime>86</runtime>
+            <language>EN</language>
+            <distributor>Columbia Pictures</distributor>
+            <directors>
+                <director>35</director>
+            </directors>
+            <producers>
+                <producer>36</producer>
+                <producer>37</producer>
+                <producer>38</producer>
+                <producer>39</producer>
+                <producer>40</producer>
+                <producer>41</producer>
+            </producers>
+            <screenwriters>
+                <screenwriter>39</screenwriter>
+                <screenwriter>40</screenwriter>
+            </screenwriters>
+            <stars>
+                <star>40</star>
+                <star>42</star>
+                <star></star>
+            </stars>
+            <scores>
+                <rottenTomatoes>
+                    <tomatoeMeter>59</tomatoeMeter>
+                    <audienceScore>85</audienceScore>
+                </rottenTomatoes>
+                <imdb>66</imdb>
+            </scores>
+        </film>
+        <film>
+            <id>6</id>
+            <popularity>6</popularity>
+            <title>Licorice Pizza</title>
+            <poster>licoricePizza(2021).jpeg</poster>
+            <year>2021</year>
+            <releaseDates>
+                <release>
+                    <date>26/11/2021</date>
+                    <location>United States</location>
+                </release>
+            </releaseDates>
+            <genres>
+                <genre>Comedy</genre>
+                <genre>Drama</genre>
+            </genres>
+            <description>
+                The story of Alana Kane and Gary Valentine growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.
+            </description>
+            <rating>
+                <ageRestriction>R</ageRestriction>
+                <warnings>
+                    <warning>Language</warning>
+                    <warning>Sexual material</warning>
+                    <warning>Some drug use</warning>
+                </warnings>
+            </rating>
+            <runtime>100</runtime>
+            <language>EN</language>
+            <distributor>Universal Pictures</distributor>
+            <directors>
+                <director>44</director>
+            </directors>
+            <producers>
+                <producer>44</producer>
+                <producer>48</producer>
+                <producer>49</producer>
+            </producers>
+            <screenwriters>
+                <screenwriter>44</screenwriter>
+            </screenwriters>
+            <stars>
+                <star>45</star>
+                <star>46</star>
+                <star>47</star>
+            </stars>
+            <scores>
+                <rottenTomatoes>
+                </rottenTomatoes>
+            </scores>
+        </film>
+        <film>
+            <id>7</id>
+            <popularity>7</popularity>
+            <title>The Guilty</title>
+            <poster>theGuilty(2021).jpeg</poster>
+            <year>2021</year>
+            <releaseDates>
+                <release>
+                    <date>11/09/2021</date>
+                    <location>TIFF</location>
+                </release>
+                <release>
+                    <date>25/09/2021</date>
+                    <location>United States</location>
+                </release>
+            </releaseDates>
+            <genres>
+                <genre>Crime</genre>
+                <genre>Mystery &#38; Thriller</genre>
+                <genre>Drama</genre>
+            </genres>
+            <description>
+                The film takes place over the course of a single morning in a 911 dispatch call center. Call operator Joe Baylor (Jake Gyllenhaal) tries to save a caller in grave danger-but he soon discovers that nothing is as it seems, and facing the truth is the only way out.
+            </description>
+            <rating>
+                <ageRestriction>R</ageRestriction>
+                <warnings>
+                    <warning>Language Throughout</warning>
+                </warnings>
+            </rating>
+            <runtime>91</runtime>
+            <language>EN</language>
+            <distributor>Netflix</distributor>
+            <directors>
+                <director>50</director>
+            </directors>
+            <producers>
+                <producer>50</producer>
+                <producer>51</producer>
+                <producer>52</producer>
+                <producer>53</producer>
+                <producer>54</producer>
+                <producer>55</producer>
+                <producer>56</producer>
+                <producer>57</producer>
+                <producer>58</producer>
+                <producer>59</producer>
+            </producers>
+            <screenwriters>
+                <screenwriter>60</screenwriter>
+            </screenwriters>
+            <stars>
+                <star>52</star>
+                <star>61</star>
+                <star>62</star>
+            </stars>
+            <scores>
+                <rottenTomatoes>
+                    <tomatoeMeter>69</tomatoeMeter>
+                    <audienceScore>47</audienceScore>
+                </rottenTomatoes>
+                <imdb>63</imdb>
+            </scores>
+        </film>
+        <film>
+            <id>8</id>
+            <popularity>8</popularity>
+            <title>Shang-Chi and the Legend of the Ten Rings</title>
+            <poster>ShangChiLegendTenRings(2021).jpeg</poster>
+            <year>2021</year>
+            <releaseDates>
+                <release>
+                    <date>16/08/2021</date>
+                    <location>Las Angeles</location>
+                </release>
+                <release>
+                    <date>03/09/2021</date>
+                    <location>United States</location>
+                </release>
+            </releaseDates>
+            <genres>
+                <genre>Action</genre>
+                <genre>Fantasy</genre>
+                <genre>Sports &#38; Fitness</genre>
+                <genre>Adventure</genre>
+            </genres>
+            <description>
+                Marvel Studios' "Shang-Chi and The Legend of The Ten Rings" stars Simu Liu as Shang-Chi, who must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization. The film also stars Tony Leung as Wenwu, Awkwafina as Shang-Chi's friend Katy and Michelle Yeoh as Jiang Nan, as well as Fala Chen, Meng'er Zhang, Florian Munteanu and Ronny Chieng.
+            </description>
+            <rating>
+                <ageRestriction>PG-13</ageRestriction>
+                <warnings>
+                    <warning>Sequences of Violence &#38; Action</warning>
+                    <warning>Language</warning>
+                </warnings>
+            </rating>
+            <runtime>133</runtime>
+            <language>EN</language>
+            <distributor>Walt Disney Studios Motion Pictures</distributor>
+            <directors>
+                <director>63</director>
+            </directors>
+            <producers>
+                <producer>64</producer>
+                <producer>65</producer>
+            </producers>
+            <screenwriters>
+                <screenwriter>66</screenwriter>
+                <screenwriter>63</screenwriter>
+                <screenwriter>67</screenwriter>
+            </screenwriters>
+            <stars>
+                <star>68</star>
+                <star>69</star>
+                <star>70</star>
+            </stars>
+            <scores>
+                <rottenTomatoes>
+                    <tomatoeMeter>92</tomatoeMeter>
+                    <audienceScore>98</audienceScore>
+                </rottenTomatoes>
+                <imdb>79</imdb>
+            </scores>
+        </film>
+        <film>
+            <id>9</id>
+            <popularity>9</popularity>
+            <title>The Starling</title>
+            <poster>theStarling(2021).jpeg</poster>
+            <year>2021</year>
+            <releaseDates>
+                <release>
+                    <date>12/09/2021</date>
+                    <location>TIFF</location>
+                </release>
+                <release>
+                    <date>17/09/2021</date>
+                    <location>Wide</location>
+                </release>
+            </releaseDates>
+            <genres>
+                <genre>Drama</genre>
+            </genres>
+            <description>
+                A woman adjusting to life after loss contends with a feisty bird that's taken over her garden -- and a husband who's struggling to find a way forward.
+            </description>
+            <rating>
+                <ageRestriction>PG-13</ageRestriction>
+                <warnings>
+                    <warning>Some Strong Language</warning>
+                    <warning>Thematic Material</warning>
+                    <warning>Suggestive Material</warning>
+                </warnings>
+            </rating>
+            <runtime>104</runtime>
+            <language>EN</language>
+            <distributor>Netflix</distributor>
+            <directors>
+                <director>71</director>
+            </directors>
+            <producers>
+                <producer>72</producer>
+                <producer>73</producer>
+                <producer>71</producer>
+                <producer>74</producer>
+            </producers>
+            <screenwriters>
+                <screenwriter>75</screenwriter>
+            </screenwriters>
+            <stars>
+                <star>76</star>
+                <star>77</star>
+                <star>78</star>
+            </stars>
+            <scores>
+                <rottenTomatoes>
+                    <tomatoeMeter>21</tomatoeMeter>
+                    <audienceScore>74</audienceScore>
+                </rottenTomatoes>
+                <imdb>63</imdb>
+            </scores>
+        </film>
+        <film>
+            <id>10</id>
+            <popularity>10</popularity>
+            <title>Malignant</title>
+            <poster>malignant(2021).jpeg</poster>
+            <year>2021</year>
+            <releaseDates>
+                <release>
+                    <date>10/09/2021</date>
+                    <location>Wide</location>
+                </release>
+            </releaseDates>
+            <genres>
+                <genre>Horror</genre>
+                <genre>Mystery &#38; Thriller</genre>
+            </genres>
+            <description>
+                Paralyzed by fear from shocking visions, a woman's torment worsens as she discovers her waking dreams are terrifying realities.
+            </description>
+            <rating>
+                <ageRestriction>R</ageRestriction>
+                <warnings>
+                    <warning>Language</warning>
+                    <warning>Gruesome Images</warning>
+                    <warning>Strong Horror Violence</warning>
+                </warnings>
+            </rating>
+            <runtime>111</runtime>
+            <language>EN</language>
+            <distributor>Warner Bros. Pictures</distributor>
+            <directors>
+                <director>79</director>
+            </directors>
+            <producers>
+                <producer>79</producer>
+                <producer>80</producer>
+            </producers>
+            <screenwriters>
+                <screenwriter>81</screenwriter>
+            </screenwriters>
+            <stars>
+                <star>82</star>
+                <star>83</star>
+                <star>84</star>
+            </stars>
+            <scores>
+                <rottenTomatoes>
+                    <tomatoeMeter>76</tomatoeMeter>
+                    <audienceScore>52</audienceScore>
+                </rottenTomatoes>
+                <imdb>63</imdb>
+            </scores>
+        </film>
+        <film>
+            <id>11</id>
+            <popularity>11</popularity>
+            <title>Old</title>
+            <poster>old(2021).jpeg</poster>
+            <year>2021</year>
+            <releaseDates>
+                <release>
+                    <date>19/07/2021</date>
+                    <location>Jazz at Lincoln Centrer</location>
+                </release>
+                <release>
+                    <date>23/07/2021</date>
+                    <location>United States</location>
+                </release>
+            </releaseDates>
+            <genres>
+                <genre>Horror</genre>
+                <genre>Mystery &#38; Thriller</genre>
+            </genres>
+            <description>
+                A tropical holiday turns into a horrific nightmare when a family visits a secluded beach that's somehow causing them to age rapidly -- reducing their entire lives into a single day.
+            </description>
+            <rating>
+                <ageRestriction>PG-13</ageRestriction>
+                <warnings>
+                    <warning>Disturbing Images</warning>
+                    <warning>Brief Strong Language</warning>
+                    <warning>Partial Nudity</warning>
+                    <warning>Strong Violence</warning>
+                    <warning>Suggestive Content</warning>
+                </warnings>
+            </rating>
+            <runtime>108</runtime>
+            <language>EN</language>
+            <distributor>Universal Pictures</distributor>
+            <directors>
+                <director>85</director>
+            </directors>
+            <producers>
+                <producer>85</producer>
+                <producer>86</producer>
+                <producer>87</producer>
+            </producers>
+            <screenwriters>
+                <screenwriter>85</screenwriter>
+            </screenwriters>
+            <stars>
+                <star>88</star>
+                <star>89</star>
+                <star>90</star>
+            </stars>
+            <scores>
+                <rottenTomatoes>
+                    <tomatoeMeter>50</tomatoeMeter>
+                    <audienceScore>53</audienceScore>
+                </rottenTomatoes>
+                <imdb>58</imdb>
+            </scores>
+        </film>
+        <film>
+            <id>12</id>
+            <popularity>12</popularity>
+            <title>The Last Duel</title>
+            <poster>theLastDuel(2021).jpeg</poster>
+            <year>2021</year>
+            <releaseDates>
+                <release>
+                    <date>10/09/2021</date>
+                    <location>Venice</location>
+                </release>
+                <release>
+                    <date>15/10/2021</date>
+                    <location>United States/United Kingdom</location>
+                </release>
+            </releaseDates>
+            <genres>
+                <genre>History</genre>
+                <genre>Drama</genre>
+            </genres>
+            <description>
+                The Last Duel is a cinematic and thought-provoking drama set in the midst of the Hundred Years War that explores the ubiquitous power of men, the frailty of justice and the strength and courage of one woman willing to stand alone in the service of truth. Based on actual events, the film unravels long-held assumptions about France's last sanctioned duel between Jean de Carrouges and Jacques Le Gris, two friends turned bitter rivals. Carrouges is a respected knight known for his bravery and skill on the battlefield. Le Gris is a Norman squire whose intelligence and eloquence make him one of the most admired nobles in court. When Carrouges' wife, Marguerite, is viciously assaulted by Le Gris, a charge he denies, she refuses to stay silent, stepping forward to accuse her attacker, an act of bravery and defiance that puts her life in jeopardy. The ensuing trial by combat, a grueling duel to the death, places the fate of all three in God's hands.
+            </description>
+            <rating>
+                <ageRestriction>R</ageRestriction>
+                <warnings>
+                    <warning>Sexual Assault</warning>
+                    <warning>Language</warning>
+                    <warning>Sexual Content</warning>
+                    <warning>Some Graphic Nudity</warning>
+                    <warning>Strong Violence</warning>
+                </warnings>
+            </rating>
+            <runtime>153</runtime>
+            <language>EN</language>
+            <distributor>20th Century Studios</distributor>
+            <directors>
+                <director>91</director>
+            </directors>
+            <producers>
+                <producer>91</producer>
+                <producer>92</producer>
+                <producer>93</producer>
+                <producer>94</producer>
+            </producers>
+            <screenwriters>
+                <screenwriter>94</screenwriter>
+                <screenwriter>95</screenwriter>
+                <screenwriter>96</screenwriter>
+            </screenwriters>
+            <stars>
+                <star>96</star>
+                <star>97</star>
+                <star>26</star>
+            </stars>
+            <scores>
+                <rottenTomatoes>
+                    <tomatoeMeter>72</tomatoeMeter>
+                </rottenTomatoes>
+                <imdb>74</imdb>
+            </scores>
+        </film>
+        <film>
+            <id>13</id>
+            <popularity>13</popularity>
+            <title>Dear Evan Hansen</title>
+            <poster>dearEvanHansen(2021).jpeg</poster>
+            <year>2021</year>
+            <releaseDates>
+                <release>
+                    <date>09/09/2021</date>
+                    <location>TIFF</location>
+                </release>
+                <release>
+                    <date>24/09/2021</date>
+                    <location>United States</location>
+                </release>
+            </releaseDates>
+            <genres>
+                <genre>Musical</genre>
+                <genre>Drama</genre>
+            </genres>
+            <description>
+                The breathtaking, generation-defining Broadway phenomenon becomes a soaring cinematic event as Tony, Grammy and Emmy Award winner Ben Platt reprises his role as an anxious, isolated high schooler aching for understanding and belonging amid the chaos and cruelty of the social-media age.
+            </description>
+            <rating>
+                <ageRestriction>PG-13</ageRestriction>
+                <warnings>
+                    <warning>Some Suggestive References</warning>
+                    <warning>Brief Strong Language</warning>
+                    <warning>Suicide</warning>
+                    <warning>Thematic Material</warning>
+                </warnings>
+            </rating>
+            <runtime>137</runtime>
+            <language>EN</language>
+            <distributor>Universal Pictures</distributor>
+            <directors>
+                <director>98</director>
+            </directors>
+            <producers>
+                <producer>99</producer>
+                <producer>100</producer>
+            </producers>
+            <screenwriters>
+                <screenwriter>101</screenwriter>
+            </screenwriters>
+            <stars>
+                <star>102</star>
+                <star>103</star>
+                <star>104</star>
+            </stars>
+            <scores>
+                <rottenTomatoes>
+                    <tomatoeMeter>31</tomatoeMeter>
+                    <audienceScore>88</audienceScore>
+                </rottenTomatoes>
+                <imdb>61</imdb>
+            </scores>
+        </film>
+        <film>
+            <id>14</id>
+            <popularity>14</popularity>
+            <title>Intrusion</title>
+            <poster>intrusion(2021).jpeg</poster>
+            <year>2021</year>
+            <releaseDates>
+                <release>
+                    <date>22/09/2021</date>
+                    <location>Wide</location>
+                </release>
+            </releaseDates>
+            <genres>
+                <genre>Mystery &#38; Thriller</genre>
+            </genres>
+            <description>
+                When a husband and wife move to a small town, a home invasion leaves the wife traumatized and suspicious that those around her might not be who they seem.
+            </description>
+            <rating>
+            </rating>
+            <runtime>92</runtime>
+            <language>EN</language>
+            <distributor>Netflix</distributor>
+            <directors>
+                <director>105</director>
+            </directors>
+            <producers>
+                <producer>106</producer>
+                <producer>107</producer>
+                <producer>108</producer>
+                <producer>109</producer>
+                <producer>110</producer>
+                <producer>111</producer>
+            </producers>
+            <screenwriters>
+                <screenwriter>110</screenwriter>
+            </screenwriters>
+            <stars>
+                <star>112</star>
+                <star>113</star>
+                <star>114</star>
+            </stars>
+            <scores>
+                <rottenTomatoes>
+                    <tomatoeMeter>15</tomatoeMeter>
+                    <audienceScore>65</audienceScore>
+                </rottenTomatoes>
+                <imdb>52</imdb>
+            </scores>
+        </film>
+        <film>
+            <id>15</id>
+            <popularity>15</popularity>
+            <title>No One Gets Out Alive</title>
+            <poster>noOneGetsOutAlive(2021).jpeg</poster>
+            <year>2021</year>
+            <releaseDates>
+                <release>
+                    <date>29/09/2021</date>
+                    <location>Netflix</location>
+                </release>
+            </releaseDates>
+            <genres>
+                <genre>Horror</genre>
+                <genre>Mystery &#38; Thriller</genre>
+            </genres>
+            <description>
+                Ambar is an immigrant in search of the American dream, but when she's forced to take a room in a boarding house, she finds herself in a nightmare she can't escape.
+            </description>
+            <rating>
+            </rating>
+            <runtime>85</runtime>
+            <language>EN</language>
+            <distributor>Netflix</distributor>
+            <directors>
+                <director>115</director>
+            </directors>
+            <producers>
+                <producer>116</producer>
+                <producer>117</producer>
+            </producers>
+            <screenwriters>
+                <screenwriter>118</screenwriter>
+                <screenwriter>119</screenwriter>
+            </screenwriters>
+            <stars>
+                <star>120</star>
+                <star>121</star>
+                <star>122</star>
+            </stars>
+            <scores>
+                <rottenTomatoes>
+                    <tomatoeMeter>67</tomatoeMeter>
+                    <audienceScore>39</audienceScore>
+                </rottenTomatoes>
+                <imdb>53</imdb>
+            </scores>
+        </film>
+        <film>
+            <id>16</id>
+            <popularity>16</popularity>
+            <title>Wolf</title>
+            <poster>wolf(2021).jpeg</poster>
+            <year>2021</year>
+            <releaseDates>
+                <release>
+                    <date>17/09/2021</date>
+                    <location>TIFF</location>
+                </release>
+                <release>
+                    <date>03/12/2021</date>
+                    <location>United States</location>
+                </release>
+            </releaseDates>
+            <genres>
+                <genre>Drama</genre>
+            </genres>
+            <description>
+                Believing he is a wolf trapped in a human body, Jacob (George MacKay) eats, sleeps, and lives like a wolf -- much to the shock of his family. When he's sent to a clinic, Jacob and his animal-bound peers are forced to undergo increasingly extreme forms of 'curative' therapies. However once he meets the mysterious Wildcat (Lily-Rose Depp), and as their friendship blossoms into an undeniable infatuation, Jacob is faced with a challenge: will he renounce his true self for love.
+            </description>
+            <rating>
+            </rating>
+            <runtime>98</runtime>
+            <language>EN</language>
+            <distributor>Focus Features</distributor>
+            <directors>
+                <director>123</director>
+            </directors>
+            <producers>
+                <producer>124</producer>
+                <producer>125</producer>
+            </producers>
+            <screenwriters>
+                <screenwriter>123</screenwriter>
+            </screenwriters>
+            <stars>
+                <star>126</star>
+                <star>127</star>
+                <star>128</star>
+            </stars>
+            <scores>
+                <rottenTomatoes>
+                </rottenTomatoes>
+                <imdb>43</imdb>
+            </scores>
+        </film>
+        <film>
+            <id>17</id>
+            <popularity>17</popularity>
+            <title>The Harder They Fall</title>
+            <poster>theHarderTheyFall(2021).jpeg</poster>
+            <year>2021</year>
+            <releaseDates>
+                <release>
+                    <date>06/10/2021</date>
+                    <location>LFF</location>
+                </release>
+                <release>
+                    <date>22/10/2021</date>
+                    <location>United States</location>
+                </release>
+            </releaseDates>
+            <genres>
+            <genre>Western</genre>
+                <genre>Drama</genre>
+            </genres>
+            <description>
+                When outlaw Nat Love (Jonathan Majors) discovers that his enemy Rufus Buck (Idris Elba) is being released from prison he rounds up his gang to track Rufus down and seek revenge. Those riding with him in this assured, righteously new school Western include his former love Stagecoach Mary (Zazie Beetz), his right and left hand men--hot-tempered Bill Pickett (Edi Gathegi) and fast drawing Jim Beckwourth (R.J. Cyler)--and a surprising adversary-turned-ally. Rufus Buck has his own fearsome crew, including "Treacherous" Trudy Smith (Regina King) and Cherokee Bill (LaKeith Stanfield), and they are not a group that knows how to lose.
+            </description>
+            <rating>
+                <ageRestriction>R</ageRestriction>
+                <warnings>
+                    <warning>Strong Violence and Language</warning>
+                </warnings>
+            </rating>
+            <runtime>137</runtime>
+            <language>EN</language>
+            <distributor>Netflix</distributor>
+            <directors>
+                <director>129</director>
+            </directors>
+            <producers>
+                <producer>130</producer>
+                <producer>131</producer>
+                <producer>129</producer>
+                <producer>132</producer>
+            </producers>
+            <screenwriters>
+                <screenwriter>129</screenwriter>
+            </screenwriters>
+            <stars>
+                <star>134</star>
+                <star>135</star>
+                <star>136</star>
+            </stars>
+            <scores>
+                <rottenTomatoes>
+                    <tomatoeMeter>78</tomatoeMeter>
+                </rottenTomatoes>
+                <imdb>57</imdb>
+            </scores>
+        </film>
+        <film>
+            <id>18</id>
+            <popularity>18</popularity>
+            <title>Cry Macho</title>
+            <poster>cryMacho(2021).jpeg</poster>
+            <year>2021</year>
+            <releaseDates>
+                <release>
+                    <date>17/09/2021</date>
+                    <location>Wide</location>
+                </release>
+            </releaseDates>
+            <genres>
+                <genre>Drama</genre>
+                <genre>Western</genre>
+                <genre>Mystery &#38; Thriller</genre>
+            </genres>
+            <description>
+                From Warner Bros. Pictures comes director/producer Clint Eastwood's uplifting and poignant drama "Cry Macho." The film stars Eastwood as Mike Milo, a one-time rodeo star and washed-up horse breeder who, in 1979, takes a job from an ex-boss to bring the man's young son home from Mexico. Forced to take the backroads on their way to Texas, the unlikely pair faces an unexpectedly challenging journey, during which the world-weary horseman finds unexpected connections and his own sense of redemption.
+            </description>
+            <rating>
+                <ageRestriction>PG-13</ageRestriction>
+                <warnings>
+                    <warning>Thematic Elements</warning>
+                    <warning>Language</warning>
+                </warnings>
+            </rating>
+            <runtime>121</runtime>
+            <language>EN</language>
+            <distributor>Warner Bros. Pictures</distributor>
+            <directors>
+                <director>137</director>
+            </directors>
+            <producers>
+                <producer>137</producer>
+                <producer>138</producer>
+                <producer>139</producer>
+                <producer>140</producer>
+            </producers>
+            <screenwriters>
+                <screenwriter>141</screenwriter>
+                <screenwriter>142</screenwriter>
+            </screenwriters>
+            <stars>
+                <star>137</star>
+                <star>143</star>
+            </stars>
+            <scores>
+                <rottenTomatoes>
+                    <tomatoeMeter>59</tomatoeMeter>
+                    <audienceScore>63</audienceScore>
+                </rottenTomatoes>
+                <imdb>58</imdb>
+            </scores>
+        </film>
+        <film>
+            <id>19</id>
+            <popularity>19</popularity>
+            <title>The Suicide Squad</title>
+            <poster>theSuicideSquad(2021).jpeg</poster>
+            <year>2021</year>
+            <releaseDates>
+                <release>
+                    <date>30/07/2021</date>
+                    <location>United Kingdom</location>
+                </release>
+                <release>
+                    <date>05/08/2021</date>
+                    <location>United States</location>
+                </release>
+            </releaseDates>
+            <genres>
+                <genre>Action</genre>
+                <genre>Comedy</genre>
+                <genre>Adventure</genre>
+            </genres>
+            <description>
+                Welcome to hell--a.k.a. Belle Reve, the prison with the highest mortality rate in the US of A. Where the worst Super-Villains are kept and where they will do anything to get out--even join the super-secret, super-shady Task Force X. Today's do-or-die assignment? Assemble a collection of cons, including Bloodsport, Peacemaker, Captain Boomerang, Ratcatcher 2, Savant, King Shark, Blackguard, Javelin and everyone's favorite psycho, Harley Quinn. Then arm them heavily and drop them (literally) on the remote, enemy-infused island of Corto Maltese. Trekking through a jungle teeming with militant adversaries and guerrilla forces at every turn, the Squad is on a search-and-destroy mission with only Colonel Rick Flag on the ground to make them behave...and Amanda Waller's government techies in their ears, tracking their every movement. And as always, one wrong move and they're dead (whether at the hands of their opponents, a teammate, or Waller herself). If anyone's laying down bets, the smart money is against them--all of them.
+            </description>
+            <rating>
+                <ageRestriction>R</ageRestriction>
+                <warnings>
+                    <warning>Drug Use</warning>
+                    <warning>Brief Graphic Nudity</warning>
+                    <warning>Language Throughout</warning>
+                    <warning>Some Sexual References</warning>
+                    <warning>Strong Violence and Gore</warning>
+                </warnings>
+            </rating>
+            <runtime>132</runtime>
+            <language>EN</language>
+            <distributor>Warner Bros. Pictures</distributor>
+            <directors>
+                <director>144</director>
+            </directors>
+            <producers>
+                <producer>145</producer>
+                <producer>146</producer>
+            </producers>
+            <screenwriters>
+                <screenwriter>144</screenwriter>
+            </screenwriters>
+            <stars>
+                <star>147</star>
+                <star>134</star>
+                <star>148</star>
+            </stars>
+            <scores>
+                <rottenTomatoes>
+                    <tomatoeMeter>90</tomatoeMeter>
+                    <audienceScore>82</audienceScore>
+                </rottenTomatoes>
+                <imdb>73</imdb>
+            </scores>
+        </film>
+        <film>
+            <id>20</id>
+            <popularity>20</popularity>
+            <title>Cruella</title>
+            <poster>cruella(2021).jpeg</poster>
+            <year>2021</year>
+            <releaseDates>
+                <release>
+                    <date>18/05/2021</date>
+                    <location>El Capitan Theatre</location>
+                </release>
+                <release>
+                    <date>28/05/2021</date>
+                    <location>United States</location>
+                </release>
+            </releaseDates>
+            <genres>
+                <genre>Comedy</genre>
+                <genre>Kids &#38; Family</genre>
+            </genres>
+            <description>
+                Academy Award (R) winner Emma Stone ("La La Land") stars in Disney's "Cruella," an all-new live-action feature film about the rebellious early days of one of cinemas most notorious - and notoriously fashionable - villains, the legendary Cruella de Vil. "Cruella," which is set in 1970s London amidst the punk rock revolution, follows a young grifter named Estella, a clever and creative girl determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella's flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute, played by two-time Oscar (R) winner Emma Thompson ("Howards End," "Sense &#38; Sensibility"). But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable and revenge-bent Cruella.
+            </description>
+            <rating>
+                <ageRestriction>PG-13</ageRestriction>
+                <warnings>
+                    <warning>Thematic Elements</warning>
+                    <warning>Some Violence</warning>
+                </warnings>
+            </rating>
+            <runtime>134</runtime>
+            <language>EN</language>
+            <distributor>Walt Disney</distributor>
+            <directors>
+                <director>149</director>
+            </directors>
+            <producers>
+                <producer>150</producer>
+                <producer>99</producer>
+                <producer>151</producer>
+            </producers>
+            <screenwriters>
+                <screenwriter>152</screenwriter>
+                <screenwriter>153</screenwriter>
+            </screenwriters>
+            <stars>
+                <star>154</star>
+                <star>155</star>
+                <star>156</star>
+            </stars>
+            <scores>
+                <rottenTomatoes>
+                    <tomatoeMeter>74</tomatoeMeter>
+                    <audienceScore>97</audienceScore>
+                </rottenTomatoes>
+                <imdb>74</imdb>
+            </scores>
+        </film>
+        <!-- <film>
+            <popularity></popularity>
+            <title></title>
+            <poster>(2021).jpeg</poster>
+            <year>2021</year>
+            <releaseDates>
+                <release>
+                    <date>//2021</date>
+                    <location></location>
+                </release>
+                <release>
+                    <date>//2021</date>
+                    <location></location>
+                </release>
+            </releaseDates>
+            <genres>
+                <genre></genre>
+                <genre></genre>
+                <genre></genre>
+                <genre></genre>
+            </genres>
+            <description>
+                
+            </description>
+            <rating>
+                <ageRestriction></ageRestriction>
+                <warnings>
+                    <warning></warning>
+                    <warning></warning>
+                    <warning></warning>
+                    <warning></warning>
+                </warnings>
+            </rating>
+            <runtime></runtime>
+            <language>EN</language>
+            <distributor></distributor>
+            <directors>
+                <director></director>
+            </directors>
+            <producers>
+                <producer></producer>
+                <producer></producer>
+                <producer></producer>
+            </producers>
+            <screenwriters>
+                <screenwriter></screenwriter>
+                <screenwriter></screenwriter>
+                <screenwriter></screenwriter>
+            </screenwriters>
+            <stars>
+                <star></star>
+                <star></star>
+                <star></star>
+            </stars>
+            <scores>
+                <rottenTomatoes>
+                    <tomatoeMeter></tomatoeMeter>
+                    <audienceScore></audienceScore>
+                </rottenTomatoes>
+                <imdb></imdb>
+            </scores>
+        </film> -->
+    </films>
+    <castCrew>
+        <member>
+            <id>0</id>
+            <name>Cary Joji Fukunaga</name>
+            <photo>caryJojiFukunaga.jpeg</photo>
+        </member>
+        <member>
+            <id>1</id>
+            <name>Michael G. Wilson</name>
+            <photo>michaelGWilson.jpeg</photo>
+        </member>
+        <member>
+            <id>2</id>
+            <name>Barbara Broccoli</name>
+            <photo>barbaraBroccoli.jpeg</photo>
+        </member>
+        <member>
+            <id>3</id>
+            <name>Neal Purvis</name>
+            <photo>nealPurvis.jpeg</photo>
+        </member>
+        <member>
+            <id>4</id>
+            <name>Robert Wade</name>
+            <photo>robertWade.jpeg</photo>
+        </member>
+        <member>
+            <id>5</id>
+            <name>Phoebe Waller-Bridge</name>
+            <photo>phoebeWallerBridge.jpeg</photo>
+        </member>
+        <member>
+            <id>6</id>
+            <name>Scott Z. Burns</name>
+            <photo>scottZBurns.jpeg</photo>
+        </member>
+        <member>
+            <id>7</id>
+            <name>Daniel Craig</name>
+            <photo>danielCraig.jpeg</photo>
+        </member>
+        <member>
+            <id>8</id>
+            <name>Ana de Armas</name>
+            <photo>anaDeArmas.jpeg</photo>
+        </member>
+        <member>
+            <id>9</id>
+            <name>Rami Malek</name>
+            <photo>ramiMalek.jpeg</photo>
+        </member>
+        <member>
+            <id>10</id>
+            <name>Denis Villeneuve</name>
+            <photo>denisVilleneuve.jpeg</photo>
+        </member>
+        <member>
+            <id>11</id>
+            <name>Jon Spaihts</name>
+            <photo>jonSpaihts.jpeg</photo>
+        </member>
+        <member>
+            <id>12</id>
+            <name>Eric Roth</name>
+            <photo>ericRoth.jpeg</photo>
+        </member>
+        <member>
+            <id>13</id>
+            <name>Mary Parent</name>
+            <photo>maryParent.jpeg</photo>
+        </member>
+        <member>
+            <id>14</id>
+            <name>Cale Boyter</name>
+            <photo>caleBoyter.jpeg</photo>
+        </member>
+        <member>
+            <id>15</id>
+            <name>Joseph Caracciolo Jr.</name>
+        </member>
+        <member>
+            <id>16</id>
+            <name>Timothée Chalamet</name>
+            <photo>timotheeChalamet.jpeg</photo>
+        </member>
+        <member>
+            <id>17</id>
+            <name>Rebecca Ferguson</name>
+            <photo>rebeccaFerguson.jpeg</photo>
+        </member>
+        <member>
+            <id>18</id>
+            <name>Zendaya</name>
+            <photo>zendaya.jpeg</photo>
+        </member>
+        <member>
+            <id>19</id>
+            <name>Shawn Levy</name>
+            <photo>shawnLevy.jpeg</photo>
+        </member>
+        <member>
+            <id>20</id>
+            <name>Ryan Reynolds</name>
+            <photo>ryanReynolds.jpeg</photo>
+        </member>
+        <member>
+            <id>21</id>
+            <name>Sarah Schechter</name>
+            <photo>sarahSchechter.jpeg</photo>
+        </member>
+        <member>
+            <id>22</id>
+            <name>Greg Berlanti</name>
+            <photo>gregBerlanti.jpeg</photo>
+        </member>
+        <member>
+            <id>23</id>
+            <name>Adam Kolbrenner</name>
+            <photo>adamKolbrenner.jpeg</photo>
+        </member>
+        <member>
+            <id>24</id>
+            <name>Matt Lieberman</name>
+            <photo>mattLieberman.jpeg</photo>
+        </member>
+        <member>
+            <id>25</id>
+            <name>Zak Penn</name>
+            <photo>zakPenn.jpeg</photo>
+        </member>
+        <member>
+            <id>26</id>
+            <name>Jodie Comer</name>
+            <photo>jodieComer.jpeg</photo>
+        </member>
+        <member>
+            <id>27</id>
+            <name>Taika Waititi</name>
+            <photo>taikaWaititi.jpeg</photo>
+        </member>
+        <member>
+            <id>28</id>
+            <name>Alan Taylor</name>
+            <photo>alanTaylor.jpeg</photo>
+        </member>
+        <member>
+            <id>29</id>
+            <name>David Chase</name>
+            <photo>davidChase.jpeg</photo>
+        </member>
+        <member>
+            <id>30</id>
+            <name>Lawrence Konner</name>
+        </member>
+        <member>
+            <id>31</id>
+            <name>Nicole Lambert</name>
+        </member>
+        <member>
+            <id>32</id>
+            <name>Alessandro Nivola</name>
+        </member>
+        <member>
+            <id>33</id>
+            <name>Leslie Odom Jr.</name>
+        </member>
+        <member>
+            <id>34</id>
+            <name>Jon Bernthal</name>
+        </member>
+        <member>
+            <id>35</id>
+            <name>Andy Serkis</name>
+            <photo>andySerkis.jpeg</photo>
+        </member>
+        <member>
+            <id>36</id>
+            <name>Avi Arad</name>
+            <photo>aviArad.jpeg</photo>
+        </member>
+        <member>
+            <id>37</id>
+            <name>Matthew Tolmach</name>
+            <photo>matthewTolmach.jpeg</photo>
+        </member>
+        <member>
+            <id>38</id>
+            <name>Amy Pascal</name>
+            <photo>amyPascal.jpeg</photo>
+        </member>
+        <member>
+            <id>39</id>
+            <name>Kelly Marcel</name>
+            <photo>kellyMarcel.jpeg</photo>
+        </member>
+        <member>
+            <id>40</id>
+            <name>Tom Hardy</name>
+            <photo>tomHardy.jpeg</photo>
+        </member>
+        <member>
+            <id>41</id>
+            <name>Hutch Parker</name>
+            <photo>hutchParker.jpeg</photo>
+        </member>
+        <member>
+            <id>42</id>
+            <name>Woody Harrelson</name>
+            <photo>woodyHarrelson.jpeg</photo>
+        </member>
+        <member>
+            <id>43</id>
+            <name>Michelle Williams</name>
+            <photo>michelleWilliams.jpeg</photo>
+        </member>
+        <member>
+            <id>44</id>
+            <name>Paul Thomas Anderson</name>
+            <photo>paulThomasAnderson.jpeg</photo>
+        </member>
+        <member>
+            <id>45</id>
+            <name>Alana Haim</name>
+            <photo>alanaHaim.jpeg</photo>
+        </member>
+        <member>
+            <id>46</id>
+            <name>Skyler Gisondo</name>
+            <photo>skylerGisondo.jpeg</photo>
+        </member>
+        <member>
+            <id>47</id>
+            <name>Emma Dumont</name>
+            <photo>emmaDumont.jpeg</photo>
+        </member>
+        <member>
+            <id>48</id>
+            <name>Sara Murphy</name>
+        </member>
+        <member>
+            <id>49</id>
+            <name>Adam Somner</name>
+        </member>
+        <member>
+            <id>50</id>
+            <name>Antoine Fuqua</name>
+            <photo>antoineFuqua.jpeg</photo>
+        </member>
+        <member>
+            <id>51</id>
+            <name>Scott Greenberg</name>
+        </member>
+        <member>
+            <id>52</id>
+            <name>Jake Gyllenhaal</name>
+            <photo>jakeGyllenhaal.jpeg</photo>
+        </member>
+        <member>
+            <id>53</id>
+            <name>David Haring</name>
+        </member>
+        <member>
+            <id>54</id>
+            <name>David Litvak</name>
+        </member>
+        <member>
+            <id>55</id>
+            <name>Michel Litvak</name>
+            <photo>michelLitvak.jpeg</photo>
+        </member>
+        <member>
+            <id>56</id>
+            <name>Riva Marker</name>
+            <photo>rivaMarker.jpeg</photo>
+        </member>
+        <member>
+            <id>57</id>
+            <name>Svetlana Metkina</name>
+            <photo>svetlanaMetkina.jpeg</photo>
+        </member>
+        <member>
+            <id>58</id>
+            <name>Kat Samick</name>
+        </member>
+        <member>
+            <id>59</id>
+            <name>Gary Michael Walters</name>
+            <photo>garyMichaelWalters.jpeg</photo>
+        </member>
+        <member>
+            <id>60</id>
+            <name>Nic Pizzolatto</name>
+            <photo>nicPizzolatto.jpeg</photo>
+        </member>
+        <member>
+            <id>61</id>
+            <name>Riley Keough</name>
+            <photo>rileyKeough.jpeg</photo>
+        </member>
+        <member>
+            <id>62</id>
+            <name>Peter Sarsgaard</name>
+            <photo>peterSarsgaard.jpeg</photo>
+        </member>
+        <member>
+            <id>63</id>
+            <name>Destin Daniel Cretton</name>
+            <photo>destinDanielCretton.jpeg</photo>
+        </member>
+        <member>
+            <id>64</id>
+            <name>Kevin Feige</name>
+            <photo>kevinFeige.jpeg</photo>
+        </member>
+        <member>
+            <id>65</id>
+            <name>Jonathan Schwartz</name>
+            <photo>jonathanSchwartz.jpeg</photo>
+        </member>
+        <member>
+            <id>66</id>
+            <name>David Callaham</name>
+            <photo>davidCallaham.jpeg</photo>
+        </member>
+        <member>
+            <id>67</id>
+            <name>Andrew Lanham</name>
+            <photo>andrewLanham.jpeg</photo>
+        </member>
+        <member>
+            <id>68</id>
+            <name>Simu Liu</name>
+            <photo>simuLiu.jpeg</photo>
+        </member>
+        <member>
+            <id>69</id>
+            <name>Awkwafina</name>
+            <photo>awkwafina.jpeg</photo>
+        </member>
+        <member>
+            <id>70</id>
+            <name>Tony Leung Chiu Wai</name>
+            <photo>tonyLeungChiuWai.jpeg</photo>
+        </member>
+        <member>
+            <id>71</id>
+            <name>Theodore Melfi</name>
+            <photo>theodoreMelfi.jpeg</photo>
+        </member>
+        <member>
+            <id>72</id>
+            <name>Dylan Sellers</name>
+            <photo>dylanSellers.jpeg</photo>
+        </member>
+        <member>
+            <id>73</id>
+            <name>Chris Parker</name>
+        </member>
+        <member>
+            <id>74</id>
+            <name>Kimberly Quinn</name>
+            <photo>kimberlyQuinn.jpeg</photo>
+        </member>
+        <member>
+            <id>75</id>
+            <name>Matt Harris</name>
+        </member>
+        <member>
+            <id>76</id>
+            <name>Melissa McCarthy</name>
+            <photo>melissaMcCarthy.jpeg</photo>
+        </member>
+        <member>
+            <id>77</id>
+            <name>Chris O'Dowd</name>
+            <photo>chrisODowd.jpeg</photo>
+        </member>
+        <member>
+            <id>78</id>
+            <name>Kevin Kline</name>
+            <photo>kevinKline.jpeg</photo>
+        </member>
+        <member>
+            <id>79</id>
+            <name>James Wan</name>
+            <photo>jamesWan.jpeg</photo>
+        </member>
+        <member>
+            <id>80</id>
+            <name>Michael Clear</name>
+            <photo>michaelClear.jpeg</photo>
+        </member>
+        <member>
+            <id>81</id>
+            <name>Akela Cooper</name>
+            <photo>akelaCooper.jpeg</photo>
+        </member>
+        <member>
+            <id>82</id>
+            <name>Annabelle Wallis</name>
+            <photo>annabelleWallis.jpeg</photo>
+        </member>
+        <member>
+            <id>83</id>
+            <name>Maddie Hasson</name>
+            <photo>maddieHasson.jpeg</photo>
+        </member>
+        <member>
+            <id>84</id>
+            <name>George Young</name>
+            <photo>georgeYoung.jpeg</photo>
+        </member>
+        <member>
+            <id>85</id>
+            <name>M. Night Shyamalan</name>
+            <photo>mNightShyamalan.jpeg</photo>
+        </member>
+        <member>
+            <id>86</id>
+            <name>Ashwin Rajan</name>
+            <photo>ashwinRajan.jpeg</photo>
+        </member>
+        <member>
+            <id>87</id>
+            <name>Marc Bienstock</name>
+            <photo>marcBienstock.jpeg</photo>
+        </member>
+        <member>
+            <id>88</id>
+            <name>Gael García Bernal</name>
+            <photo>gaelGarcíaBernal.jpeg</photo>
+        </member>
+        <member>
+            <id>89</id>
+            <name>Vicky Krieps</name>
+            <photo>vickyKrieps.jpeg</photo>
+        </member>
+        <member>
+            <id>90</id>
+            <name>Rufus Sewell</name>
+            <photo>rufusSewell.jpeg</photo>
+        </member><member>
+            <id>91</id>
+            <name>Ridley Scott</name>
+            <photo>ridleyScott.jpeg</photo>
+        </member>
+        <member>
+            <id>92</id>
+            <name>Kevin J. Walsh</name>
+            <photo>kevinJWalsh.jpeg</photo>
+        </member>
+        <member>
+            <id>93</id>
+            <name>Jennifer Fox</name>
+            <photo>jenniferFox.jpeg</photo>
+        </member>
+        <member>
+            <id>94</id>
+            <name>Nicole Holofcener</name>
+            <photo>nicoleHolofcener.jpeg</photo>
+        </member>
+        <member>
+            <id>95</id>
+            <name>Ben Affleck</name>
+            <photo>benAffleck.jpeg</photo>
+        </member>
+        <member>
+            <id>96</id>
+            <name>Matt Damon</name>
+            <photo>mattDamon.jpeg</photo>
+        </member>
+        <member>
+            <id>97</id>
+            <name>Adam Driver</name>
+            <photo>adamDriver.jpeg</photo>
+        </member>
+        <member>
+            <id>98</id>
+            <name>Stephen Chbosky</name>
+            <photo>stephenChbosky.jpeg</photo>
+        </member>
+        <member>
+            <id>99</id>
+            <name>Marc Platt</name>
+            <photo>marcPlatt.jpeg</photo>
+        </member>
+        <member>
+            <id>100</id>
+            <name>Adam Siegel</name>
+            <photo>adamSiegel.jpeg</photo>
+        </member><member>
+            <id>101</id>
+            <name>Steven Levenson</name>
+            <photo>stevenLevenson.jpeg</photo>
+        </member>
+        <member>
+            <id>102</id>
+            <name>Ben Platt</name>
+            <photo>benPlatt.jpeg</photo>
+        </member>
+        <member>
+            <id>103</id>
+            <name>Julianne Moore</name>
+            <photo>julianneMoore.jpeg</photo>
+        </member>
+        <member>
+            <id>104</id>
+            <name>Kaitlyn Dever</name>
+            <photo>kaitlynDever.jpeg</photo>
+        </member>
+        <member>
+            <id>105</id>
+            <name>Adam Salky</name>
+            <photo>adamSalky.jpeg</photo>
+        </member>
+        <member>
+            <id>106</id>
+            <name>Kyle Benn</name>
+        </member>
+        <member>
+            <id>107</id>
+            <name>Russell Hollander</name>
+        </member>
+        <member>
+            <id>108</id>
+            <name>Alexandra Milchan,</name>
+        </member>
+        <member>
+            <id>109</id>
+            <name>Matthew Myers</name>
+        </member>
+        <member>
+            <id>110</id>
+            <name>Chris Sparling</name>
+            <photo>chrisSparling.jpeg</photo>
+        </member>
+        <member>
+            <id>111</id>
+            <name>Josh Weinstock</name>
+        </member>
+        <member>
+            <id>112</id>
+            <name>Freida Pinto</name>
+            <photo>freidaPinto.jpeg</photo>
+        </member>
+        <member>
+            <id>113</id>
+            <name>Logan Marshall-Green</name>
+            <photo>loganMarshallGreen.jpeg</photo>
+        </member>
+        <member>
+            <id>114</id>
+            <name>Robert John Burke</name>
+            <photo>robertJohnBurke.jpeg</photo>
+        </member>
+        <member>
+            <id>115</id>
+            <name>Santiago Menghini</name>
+        </member>
+        <member>
+            <id>116</id>
+            <name>Jonathan Cavendish</name>
+            <photo>jonathanCavendish.jpeg</photo>
+        </member>
+        <member>
+            <id>117</id>
+            <name>Will Tennant</name>
+        </member>
+        <member>
+            <id>118</id>
+            <name>Jon Croker</name>
+        </member>
+        <member>
+            <id>119</id>
+            <name>Fernanda Coppel</name>
+        </member>
+        <member>
+            <id>120</id>
+            <name>Cristina Rodlo</name>
+            <photo>cristinaRodlo.jpeg</photo>
+        </member>
+        <member>
+            <id>121</id>
+            <name>Marc Menchaca</name>
+            <photo>marcMenchaca.jpeg</photo>
+        </member>
+        <member>
+            <id>122</id>
+            <name>David Figlioli</name>
+            <photo>davidFiglioli.jpeg</photo>
+        </member>
+        <member>
+            <id>123</id>
+            <name>Nathalie Biancheri</name>
+        </member>
+        <member>
+            <id>124</id>
+            <name>Jane Doolan</name>
+        </member>
+        <member>
+            <id>125</id>
+            <name>Jessie Fisk</name>
+        </member>
+        <member>
+            <id>126</id>
+            <name>Lily-Rose Depp</name>
+            <photo>lilyRoseDepp.jpeg</photo>
+        </member>
+        <member>
+            <id>127</id>
+            <name>George MacKay</name>
+            <photo>georgeMacKay.jpeg</photo>
+        </member>
+        <member>
+            <id>128</id>
+            <name>Paddy Considine</name>
+            <photo>paddyConsidine.jpeg</photo>
+        </member>
+        <member>
+            <id>129</id>
+            <name>Jeymes Samuel</name>
+        </member>
+        <member>
+            <id>130</id>
+            <name>James Lassiter</name>
+            <photo>jamesLassiter.jpeg</photo>
+        </member>
+        <member>
+            <id>131</id>
+            <name>Lawrence Bender</name>
+            <photo>lawrenceBender.jpeg</photo>
+        </member>
+        <member>
+            <id>132</id>
+            <name>Jay-Z</name>
+            <photo>jayZ.jpeg</photo>
+        </member>
+        <member>
+            <id>133</id>
+            <name>Boaz Yakin</name>
+            <photo>boazYakin.jpeg</photo>
+        </member>
+        <member>
+            <id>134</id>
+            <name>Idris Elba</name>
+            <photo>idrisElba.jpeg</photo>
+        </member>
+        <member>
+            <id>135</id>
+            <name>Jonathan Majors</name>
+            <photo>jonathanMajors.jpeg</photo>
+        </member>
+        <member>
+            <id>136</id>
+            <name>Regina King</name>
+            <photo>reginaKing.jpeg</photo>
+        </member>
+        <member>
+            <id>137</id>
+            <name>Clint Eastwood</name>
+            <photo>clintEastwood.jpeg</photo>
+        </member>
+        <member>
+            <id>138</id>
+            <name>Albert S. Ruddy</name>
+            <photo>albertSRuddy.jpeg</photo>
+        </member>
+        <member>
+            <id>139</id>
+            <name>Tim Moore</name>
+            <photo>timMoore.jpeg</photo>
+        </member>
+        <member>
+            <id>140</id>
+            <name>Jessica Meier</name>
+        </member>
+        <member>
+            <id>141</id>
+            <name>Nick Schenk</name>
+            <photo>nickSchenk.jpeg</photo>
+        </member>
+        <member>
+            <id>142</id>
+            <name>N. Richard Nash</name>
+        </member>
+        <member>
+            <id>143</id>
+            <name>Dwight Yoakam</name>
+            <photo>dwightYoakam.jpeg</photo>
+        </member>
+        <member>
+            <id>144</id>
+            <name>James Gunn</name>
+            <photo>jamesGunn.jpeg</photo>
+        </member>
+        <member>
+            <id>145</id>
+            <name>Peter Safran</name>
+            <photo>peterSafran.jpeg</photo>
+        </member>
+        <member>
+            <id>146</id>
+            <name>Charles Roven</name>
+            <photo>charlesRoven.jpeg</photo>
+        </member>
+        <member>
+            <id>147</id>
+            <name>Margot Robbie</name>
+            <photo>margotRobbie.jpeg</photo>
+        </member>
+        <member>
+            <id>148</id>
+            <name>John Cena</name>
+            <photo>johnCena.jpeg</photo>
+        </member>
+        <member>
+            <id>149</id>
+            <name>Craig Gillespie</name>
+            <photo>craigGillespie.jpeg</photo>
+        </member>
+        <member>
+            <id>150</id>
+            <name>Andrew Gunn</name>
+            <photo>andrewGunn.jpeg</photo>
+        </member>
+        <member>
+            <id>151</id>
+            <name>Kristin Burr</name>
+            <photo>kristinBurr.jpeg</photo>
+        </member>
+        <member>
+            <id>152</id>
+            <name>Dana Fox</name>
+            <photo>danaFox.jpeg</photo>
+        </member>
+        <member>
+            <id>153</id>
+            <name>Tony McNamara</name>
+            <photo>tonyMcNamara.jpeg</photo>
+        </member>
+        <member>
+            <id>154</id>
+            <name>Emma Stone</name>
+            <photo>emmaStone.jpeg</photo>
+        </member>
+        <member>
+            <id>155</id>
+            <name>Emma Thompson</name>
+            <photo>emmaThompson.jpeg</photo>
+        </member>
+        <member>
+            <id>156</id>
+            <name>Joel Fry</name>
+            <photo>joelFry.jpeg</photo>
+        </member>
+        <!-- <member>
+            <id>157</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>158</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>159</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>160</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>161</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>162</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>163</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>164</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>165</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>166</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>167</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>168</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>169</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>170</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>171</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>172</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>173</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>174</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>175</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>176</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>177</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>178</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>179</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>180</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>181</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>182</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>183</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>184</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>185</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>186</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>187</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>188</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member>
+        <member>
+            <id>189</id>
+            <name></name>
+            <photo>.jpeg</photo>
+        </member> -->
+    </castCrew>
+</catalog>

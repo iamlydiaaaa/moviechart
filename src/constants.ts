@@ -1,0 +1,1 @@
+export const FILM_POSTER_URI = "../images/filmPosters/";

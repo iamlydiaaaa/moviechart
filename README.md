@@ -8,5 +8,5 @@
 <h2>List page</h2>
 <img src="images/compx222_movieChart_list.png">
 <br>
-<h2>Main page</h2>
+<h2>Detail page</h2>
 <img src="images/compx222_movieChart_detail.png">
